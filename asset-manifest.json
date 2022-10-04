@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lista-de-la-compra/static/css/main.a6f1bcf7.css",
+    "main.js": "/lista-de-la-compra/static/js/main.a2b2a946.js",
+    "index.html": "/lista-de-la-compra/index.html",
+    "main.a6f1bcf7.css.map": "/lista-de-la-compra/static/css/main.a6f1bcf7.css.map",
+    "main.a2b2a946.js.map": "/lista-de-la-compra/static/js/main.a2b2a946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6f1bcf7.css",
+    "static/js/main.a2b2a946.js"
+  ]
+}
